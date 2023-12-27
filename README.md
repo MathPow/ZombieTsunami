@@ -68,11 +68,11 @@ Le joueur peut interagir avec tous les éléments annoncés dans le tableaux plu
 - Temps d’attente pour recharger
 
 **Contrôles :**
-- [W,A,S,D] - Move player
-- [Mouse] - Move camera 
-- [Left Click] - Shoot
-- [R] - Reload
-- [Z] - Zoom minimap
-- [X] - Unzoom minimap
-- [E] - Interact with the elements
-- [Q] - Change camera layout
+- ['W','A','S','D'] - Move player
+- ['Mouse'] - Move camera 
+- ['Left Click'] - Shoot
+- ['R'] - Reload
+- ['Z'] - Zoom minimap
+- ['X'] - Unzoom minimap
+- ['E'] - Interact with the elements
+- ['Q'] - Change camera layout
